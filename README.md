@@ -2,17 +2,17 @@
 # Weather App
 
 
-I tried to make a weather website. I have used the OpenWeatherMap API for this project. This is made with HTML CSS JS and deployed using Netlify. 
+I made an attempt at a weather webpage. For this project, I used the OpenWeatherMap API. HTML, CSS, and JS were used to create and deliver this.
 
 ## Check my project live:
-<a href="https://weather-app-akashxlr8.netlify.app/" target="_blank">Deployed Here</a>
+<a href="https://dazzling-faun-bac165.netlify.app/" target="_blank"> Deployed Here LIVE <a>
 
 
 ## Features
 
-- Displays weather for User's current location
+- Shows the weather for the user's current location 
 - Fully responsive
-- Displays the weather for the upcoming week
+- Shows the weather for the following week
 
 
 
